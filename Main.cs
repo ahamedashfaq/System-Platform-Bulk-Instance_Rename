@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-//AUTHORS: MACRO-INTEGRATION PTE LTD
+//AUTHORS: ASHFAQ AHAMED
 
 using System;
 using System.IO;
